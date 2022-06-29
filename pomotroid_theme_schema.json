@@ -2,11 +2,7 @@
   "$schema": "http://json-schema.org/draft-04/schema#",
   "title": "pomotroid.theme.json",
   "type": "object",
-  "required": [
-    "$schema",
-    "name",
-    "colors"
-  ],
+  "required": ["$schema", "name", "colors"],
   "properties": {
     "$schema": {
       "type": "string"
@@ -17,55 +13,55 @@
     "colors": {
       "type": "object",
       "required": [
-        "color_long_round",
-        "color_short_round",
-        "color_focus_round",
-        "color_background",
-        "color_background_light",
-        "color_background_lightest",
-        "color_foreground",
-        "color_foreground_darker",
-        "color_foreground_darkest",
-        "color_accent"
+        "--color-long-round",
+        "--color-short-round",
+        "--color-focus-round",
+        "--color-background",
+        "--color-background-light",
+        "--color-background-lightest",
+        "--color-foreground",
+        "--color-foreground-darker",
+        "--color-foreground-darkest",
+        "--color-accent"
       ],
       "properties": {
-        "color_long_round": {
+        "--color-long-round": {
           "type": "string",
           "format": "color"
         },
-        "color_short_round": {
+        "--color-short-round": {
           "type": "string",
           "format": "color"
         },
-        "color_focus_round": {
+        "--color-focus-round": {
           "type": "string",
           "format": "color"
         },
-        "color_background": {
+        "--color-background": {
           "type": "string",
           "format": "color"
         },
-        "color_background_light": {
+        "--color-background-light": {
           "type": "string",
           "format": "color"
         },
-        "color_background_lightest": {
+        "--color-background-lightest": {
           "type": "string",
           "format": "color"
         },
-        "color_foreground": {
+        "--color-foreground": {
           "type": "string",
           "format": "color"
         },
-        "color_foreground_darker": {
+        "--color-foreground-darker": {
           "type": "string",
           "format": "color"
         },
-        "color_foreground_darkest": {
+        "--color-foreground-darkest": {
           "type": "string",
           "format": "color"
         },
-        "color_accent": {
+        "--color-accent": {
           "type": "string",
           "format": "color"
         }
@@ -74,4 +70,3 @@
   },
   "additionalProperties": false
 }
-
