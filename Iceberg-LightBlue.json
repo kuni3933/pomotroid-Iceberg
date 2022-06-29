@@ -3,7 +3,7 @@
   "name": "Iceberg",
   "colors": {
     "--color-long-round": "#e2a478",
-    "--color-short-round": "#89b8c2",
+    "--color-short-round": "#00b4c8",
     "--color-focus-round": "#84a0c6",
     "--color-background": "#161822",
     "--color-background-light": "#2e323d",
