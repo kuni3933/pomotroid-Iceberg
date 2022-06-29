@@ -2,15 +2,15 @@
   "$schema": "./pomotroid_theme_schema.json",
   "name": "Iceberg",
   "colors": {
-    "--color-long-round": "#dea478",
-    "--color-short-round": "#799bc7",
-    "--color-focus-round": "#b1bf7b",
+    "--color-long-round": "#e2a478",
+    "--color-short-round": "#a093c7",
+    "--color-focus-round": "#89b8c2",
     "--color-background": "#161822",
     "--color-background-light": "#2e323d",
     "--color-background-lightest": "#746f77",
-    "--color-foreground": "#d5ced9",
+    "--color-foreground": "#c7c9d1",
     "--color-foreground-darker": "#746f77",
-    "--color-foreground-darkest": "#00b4c8",
+    "--color-foreground-darkest": "#d8e599",
     "--color-accent": "#00b4c8"
   }
 }
