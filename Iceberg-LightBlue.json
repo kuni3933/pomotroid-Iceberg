@@ -1,6 +1,6 @@
 {
   "$schema": "./pomotroid_theme_schema.json",
-  "name": "Iceberg",
+  "name": "Iceberg-LightBlue",
   "colors": {
     "--color-long-round": "#e2a478",
     "--color-short-round": "#00b4c8",
