@@ -8,7 +8,7 @@
     "--color-background": "#161822",
     "--color-background-light": "#2e323d",
     "--color-background-lightest": "#746f77",
-    "--color-foreground": "#c6c8d1",
+    "--color-foreground": "#c7c9d1",
     "--color-foreground-darker": "#746f77",
     "--color-foreground-darkest": "#d8e599",
     "--color-accent": "#00b4c8"
