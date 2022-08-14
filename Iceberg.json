@@ -1,5 +1,5 @@
 {
-  "$schema": "./pomotroid_theme_schema.json",
+  "$schema": "https://raw.githubusercontent.com/kuni3933/pomotroid-theme-schema/master/pomotroid_theme_schema.json",
   "name": "Iceberg",
   "colors": {
     "--color-long-round": "#e2a478",
